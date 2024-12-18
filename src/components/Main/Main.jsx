@@ -11,7 +11,7 @@ const Main = () => {
   return (
     <div className='main'>
         <div className="nav">
-            <p>Gemini</p>
+            <p>🅰️I</p>
             <img src={assets.user_icon} alt="" />
         </div>
         <div className="main-container">
@@ -19,26 +19,26 @@ const Main = () => {
             {!showResult
             ?<>
                 <div className="greet">
-                <p><span>Hello, Dev.</span></p>
-                <p>How can I help you today?</p>
+                <p><span>Hello, 🅰️TEAM.</span></p>
+                <p>How can I help you "Rise Up" today and earn more Telegram 🅰️TL memecoins?</p>
             </div>
 
             <div className="cards">
                 <div className="card">
-                    <p>Suggest beautiful places to see on an upcoming read trip</p>
+                    <p>How do I download a TonKeeper Wallet to buy Telegram 🅰️TL mememcoins</p>
                     <img src={assets.compass_icon} alt="" />
                 </div>
                 <div className="card">
-                    <p>Briefly summarize this concept: urban planning</p>
-                    <img src={assets.bulb_icon} alt="" />
+                    <p>How do I download a Talisman Wallet to buy 🅰️DTC on Kusuma blockchain</p>
+                    <img src={assets.compass_icon} alt="" />
                 </div>
                 <div className="card">
-                    <p>Brainstorm team bonding activities for our work retreat</p>
-                    <img src={assets.message_icon} alt="" />
+                    <p>How do I stake 🅰️TL mememcoins to earn 25% APR</p>
+                    <img src={assets.compass_icon} alt="" />
                 </div>
                 <div className="card">
-                    <p>Improve the readability of the following code</p>
-                    <img src={assets.code_icon} alt="" />
+                    <p>How do I stake 🅰️DTC to earn 25% APR and borrow against the Kusuma NFT digital asset</p>
+                    <img src={assets.compass_icon} alt="" />
                 </div>
             </div>
             </>
@@ -72,7 +72,7 @@ const Main = () => {
                     </div>
                 </div>
                 <p className='bottom-info'>
-                    Gemini may display inaccurate info, including about people, so double-check its responses. Your privacy and Gemini Apps
+                  🅰️I may display inaccurate info, including about people, so double-check its responses. Your privacy and 🅰️I Apps
                 </p>
             </div>
         </div>
