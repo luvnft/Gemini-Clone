@@ -19,7 +19,7 @@ const Main = () => {
             {!showResult
             ?<>
                 <div className="greet">
-                <p><span>Hello, 🅰️TEAM.</span></p>
+                <p><span>Hello, ATEAM.</span></p>
                 <p>How can I help you "Rise Up" today and earn more Telegram 🅰️TL memecoins?</p>
             </div>
 
