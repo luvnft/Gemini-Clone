@@ -25,7 +25,7 @@ const Main = () => {
 
             <div className="cards">
                 <div className="card">
-                    <p>How do I download a TonKeeper Wallet to buy Telegram 🅰️TL mememcoins</p>
+                    <p>How do I download a TonKeeper Wallet to buy Telegram TON 🅰️TL mememcoins</p>
                     <img src={assets.compass_icon} alt="" />
                 </div>
                 <div className="card">
@@ -33,11 +33,11 @@ const Main = () => {
                     <img src={assets.compass_icon} alt="" />
                 </div>
                 <div className="card">
-                    <p>How do I stake 🅰️TL mememcoins to earn 25% APR</p>
+                    <p>How do I stake Telegram TON 🅰️TL mememcoins to earn 25% APR</p>
                     <img src={assets.compass_icon} alt="" />
                 </div>
                 <div className="card">
-                    <p>How do I stake 🅰️DTC to earn 25% APR and borrow against the Kusuma NFT digital asset</p>
+                    <p>How do I stake an Kusuma NFT 🅰️DTC to earn 25% APR and borrow against the 🅰️DTC digital asset</p>
                     <img src={assets.compass_icon} alt="" />
                 </div>
             </div>
